@@ -46,3 +46,5 @@ begin
 writeln('Enter para encerrar');
 readln;
 end.
+
+//deu boa
