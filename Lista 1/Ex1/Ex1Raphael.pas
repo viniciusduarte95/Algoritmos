@@ -1,5 +1,6 @@
 Program ex1;
-var a,b,c,delta,x1,x2:real; //:real indica o tipo de variavel
+var 
+    a,b,c,delta,x1,x2:real; //:real indica o tipo de variavel
 
 begin
   //clrscr limpa a tela
